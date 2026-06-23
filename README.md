@@ -78,7 +78,7 @@ Los resultados obtenidos validan parcialmente la hipótesis inicial.
 
 * **Fuerzas Armadas en Argentina:** A diferencia del resto de las instituciones analizadas, las Fuerzas Armadas argentinas mostraron una tendencia positiva moderada respecto de la desigualdad social y la violencia. Si bien estos resultados no alcanzan la significancia estadística convencional (p < 0.05), la cercanía a los márgenes evidencia una tendencia diferenciada que merece atención analítica. Desde una perspectiva teórica, este hallazgo sugiere que, en determinados contextos de crisis social y deterioro de las condiciones de seguridad, las Fuerzas Armadas pueden adquirir una imagen pública asociada al orden y la estabilidad institucional.
 
-* **Apertura a nuevas líneas de investigación:** Los resultados indican que la representación política de los actores de seguridad depende de factores adicionales que exceden las variables macroestructurales consideradas en este estudio. Aspectos como la oferta electoral, las dinámicas partidarias, las trayectorias individuales de los candidatos o las características institucionales de cada jurisdicción podrían contribuir a explicar el fenómeno y constituyen líneas prometedoras para futuras investigaciones.
+* **Apertura a nuevas líneas de investigación:** Los resultados indican que la representación política de los actores de seguridad depende de variables adicionales que exceden las variables macroestructurales consideradas en este estudio.
 
 ---
 
