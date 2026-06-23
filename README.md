@@ -21,7 +21,7 @@ Analizar la relación entre desigualdad social, violencia y la presencia de legi
 
 ### Metodología
 
-Análisis cuantitativo mediante el **Coeficiente de Correlación por Rangos de Spearman**
+Análisis cuantitativo mediante el **Coeficiente de Correlación de Spearman**
 
 ---
 
