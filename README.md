@@ -85,8 +85,8 @@ Los resultados obtenidos validan parcialmente la hipótesis inicial.
 ## Reproducción del Análisis
 
 1. Descargar la base de datos incluida en el repositorio.
-2. Ejecutar el archivo `Spearman - Tesis de maestría.py`.
-3. El script procesará automáticamente la información y generará el archivo `Resultados_Spearman.xlsx` con los coeficientes de correlación obtenidos.
+2. Ejecutar el archivo `analisis_spearman`.
+3. El script procesará automáticamente la información y generará el archivo `resultados_spearman.xlsx` con los coeficientes de correlación obtenidos.
 
 ---
 
