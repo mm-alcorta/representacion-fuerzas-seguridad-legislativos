@@ -29,7 +29,7 @@ Análisis cuantitativo mediante el **Coeficiente de Correlación de Spearman**
 
 ### Variable Dependiente
 
-**Presencia de legisladores provenientes de las fuerzas públicas de seguridad.**
+**Legisladores provenientes de las fuerzas públicas de seguridad.**
 
 **Brasil (Indicadores):**
 
