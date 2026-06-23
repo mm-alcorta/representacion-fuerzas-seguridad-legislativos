@@ -111,8 +111,8 @@ Los resultados obtenidos validan parcialmente la hipótesis inicial.
 
 ### Brasil
 
-* Tribunal Superior Eleitoral (TSE).
-* Instituto Brasileiro de Geografia e Estatística (IBGE).
+* Tribunal Supremo Electoral (TSE).
+* Instituto Brasileño de Geografía y Estadística (IBGE).
 * Instituto Igarapé.
 
 ### Argentina
