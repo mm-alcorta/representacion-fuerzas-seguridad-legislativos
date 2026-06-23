@@ -84,7 +84,7 @@ A diferencia del resto de las instituciones analizadas, las Fuerzas Armadas arge
 
 * ***Apertura a nuevas líneas de investigación***
 
-Los resultados indican que la representación política de actores de seguridad depende de variables adicionales que exceden los factores macroestructurales analizados en este estudio.
+Los resultados indican que la representación política legisladores con pasado en las fuerzas públicas de seguridad depende de variables adicionales que no han sido analizados en este estudio.
 
 
 ---
