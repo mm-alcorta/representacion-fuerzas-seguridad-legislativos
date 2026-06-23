@@ -74,11 +74,18 @@ El script automatiza el proceso de análisis mediante la carga de las bases de d
 
 Los resultados obtenidos validan parcialmente la hipótesis inicial.
 
-* **Fuerzas policiales:** No se observaron correlaciones estadísticamente significativas entre la desigualdad social o la violencia y la presencia de representantes policiales en ninguno de los dos países. Las correlaciones cercanas a cero o negativas sugieren que, en contextos de alta desigualdad y violencia estructural, las fuerzas policiales no son percibidas unívocamente por la ciudadanía como agentes de solución. Por el contrario, pueden ser asociadas a dinámicas de violencia institucional y criminalización de sectores socialmente vulnerables, limitando así su potencial capital electoral.
+* ***Fuerzas policiales***
 
-* **Fuerzas Armadas en Argentina:** A diferencia del resto de las instituciones analizadas, las Fuerzas Armadas argentinas mostraron una tendencia positiva moderada respecto de la desigualdad social y la violencia. Si bien estos resultados no alcanzan la significancia estadística convencional (p < 0.05), la cercanía a los márgenes evidencia una tendencia diferenciada que merece atención analítica. Desde una perspectiva teórica, este hallazgo sugiere que, en determinados contextos de crisis social y deterioro de las condiciones de seguridad, las Fuerzas Armadas pueden adquirir una imagen pública asociada al orden y la estabilidad institucional.
+No se observaron correlaciones estadísticamente significativas entre desigualdad social o violencia y la presencia de representantes policiales en ninguno de los dos países. Las correlaciones cercanas a cero o negativas sugieren que, en contextos de alta desigualdad y violencia estructural, las fuerzas policiales no son percibidas de manera unívoca como agentes de solución, pudiendo asociarse también a dinámicas de violencia institucional y criminalización de sectores vulnerables.
 
-* **Apertura a nuevas líneas de investigación:** Los resultados indican que la representación política de los actores de seguridad depende de variables adicionales que exceden las variables macroestructurales consideradas en este estudio.
+* ***Fuerzas Armadas en Argentina***
+
+A diferencia del resto de las instituciones analizadas, las Fuerzas Armadas argentinas muestran una tendencia positiva moderada respecto de desigualdad social y violencia. Si bien no alcanzan significancia estadística convencional (p < 0.05), presentan una tendencia que sugiere que, en contextos de crisis social, pueden ser percibidas como actores de orden y estabilidad institucional.
+
+* ***Apertura a nuevas líneas de investigación***
+
+Los resultados indican que la representación política de actores de seguridad depende de variables adicionales que exceden los factores macroestructurales analizados en este estudio.
+
 
 ---
 
