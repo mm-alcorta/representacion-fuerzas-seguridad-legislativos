@@ -2,7 +2,7 @@
 
 # La representación de las fuerzas públicas de seguridad en el poder legislativo subnacional: análisis comparativo entre Brasil (2022) y Argentina (2023)
 
-Este repositorio contiene las bases de datos, metodologías, código fuente y resultados del análisis estadístico desarrollado en la tesis de la Maestría en Derechos Humanos y Democratización para América Latina y el Caribe (CIEP - Universidad Nacional de San Martín / Global Campus of Human Rights).
+Este repositorio contiene las bases de datos, metodologías, fuentes y resultados del análisis estadístico desarrollado en la tesis de la Maestría en Derechos Humanos y Democratización para América Latina y el Caribe (CIEP - Universidad Nacional de San Martín / Global Campus of Human Rights).
 
 * **Autora:** Mg. Mercedes Milagros Alcorta
 * **Año:** 2025
