@@ -11,9 +11,10 @@ Este repositorio contiene las bases de datos, metodologías, fuentes y resultado
 
 ## Diseño de la Investigación
 
-### Pregunta de Investigación
+### Pregunta de Investigación e Hipótesis
 
 ¿Qué variables explican la presencia de representantes provenientes de las fuerzas públicas de seguridad en los órganos legislativos estaduales de Brasil y provinciales de Argentina?
+Como respuesta tentativa a este interrogante, se postula que la persistente desigualdad social y los elevados índices de violencia, fenómenos interrelacionados, han contribuido al descrédito de los partidos políticos tradicionales, al no lograr dar respuestas efectivas a problemáticas ciudadanas urgentes. El debilitamiento de los partidos tradicionales abrió espacio a alternativas políticas con discursos de corte punitivista, favoreciendo así la emergencia de un mayor número de legisladores vinculados a las fuerzas públicas de seguridad que, en general y por el tipo de agenda defendida, se postulan a través de partidos más a la derecha del espectro ideológico.
 
 ### Objetivo General
 
